@@ -10,6 +10,6 @@ Model, View, Controler
 
 
 
-项目地址：
+项目地址：https://github.com/EzioZz/Concentration
 
-![image-20200320012301798](/Users/yanyucheng/Library/Application Support/typora-user-images/image-20200320012301798.png)
+![](https://www.yanyucheng.xyz/image/image-20200320012301798.png)
